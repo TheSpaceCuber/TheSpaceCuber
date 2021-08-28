@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**Hello! I am looking for 2021 Summer Internship in Canada, United States, or Singapore.** 
+**Hello! I am looking for 2022 Summer Internship in Canada, United States, or Singapore.** 
 
 Check out my website [here](https://www.royceho.net)!
 
