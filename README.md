@@ -5,7 +5,7 @@
 Check out my website [here](https://www.royceho.net)!
 
 - ⚡ Fun fact: I have lived in 3 countries, and moved house 4 times in the past 10 years.
-- 💜 Interests: Philosophy, Sports (Tennis/Badminton/Cycling/Frisbee), Books, Teaching, Blogging, Music (Guitar), Church
+- 💜 Interests: Sports (Tennis/Cycling/Frisbee), Books, Teaching, Blogging, Music (Guitar)
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/royceho)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@royce963)
