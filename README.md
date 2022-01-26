@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-**Hello! I am looking for 2022 Summer Internship in Canada, United States, or Singapore.** 
-
 Check out my website [here](https://www.royceho.net)!
 
 - ⚡ Fun fact: I have lived in 3 countries, and moved house 4 times in the past 10 years.
