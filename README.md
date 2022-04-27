@@ -2,8 +2,8 @@
 
 Check out my website [here](https://www.royceho.net)!
 
-- ⚡ Fun fact: I have lived in 3 countries, and moved house 4 times in the past 10 years.
-- 💜 Interests: Sports (Tennis/Cycling/Frisbee), Books, Teaching, Blogging, Music (Guitar)
+- 🌱 I’m currently working towards the AWS SAA exam.
+- 💜 Interests: Cloud computing, sports (most racquet sports, cycling, frisbee), science fiction and just going out in general!
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/royceho)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@royce963)
