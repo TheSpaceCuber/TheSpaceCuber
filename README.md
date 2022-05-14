@@ -2,7 +2,7 @@
 
 Check out my website [here](https://www.royceho.net)!
 
-- 🌱 I’m currently working towards the AWS SAA exam.
+- 🌱 I’m currently learning web development with React and Firebase.
 - 💜 Interests: Cloud computing, sports (most racquet sports, cycling, frisbee), science fiction and just going out in general!
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/royceho)
