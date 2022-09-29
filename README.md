@@ -2,8 +2,9 @@
 
 Check out my website [here](https://www.royceho.net)!
 
-- 🌱 I’m currently learning web development with React and Firebase.
-- 💜 Interests: Cloud computing, sports (most racquet sports, cycling, frisbee), science fiction and just going out in general!
+- 🌱 I’m currently learning web development (MERN stack).
+- 💜 Interests: Software Engineering, Cloud computing
+- ✨ Non-tech interests: Sports (cycling, frisbee, racquet sports), Fitness classes, Science Fiction
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/royceho)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@royce963)
