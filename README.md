@@ -3,8 +3,6 @@
 Check out my website [here](https://www.royceho.net)!
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheSpaceCuber&theme=nord_bright)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TheSpaceCuber&theme=nord_bright)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TheSpaceCuber&theme=nord_bright&utcOffset=8)
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/royceho)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@royce963)
