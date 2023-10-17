@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Check out my website [here](https://www.royceho.net)!
+Check out my website [here]([https://www.royceho.net](https://thespacecuber.github.io/))!
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheSpaceCuber&theme=nord_bright)
 
