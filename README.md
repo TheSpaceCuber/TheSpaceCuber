@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Check out my website [here]([https://www.royceho.net](https://thespacecuber.github.io/))!
+Check out my website [here](royceho.com).
 
 
 <!--
