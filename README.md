@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Check out my website [here](royceho.com).
+Check out my website [here](https://royceho.com).
 
 
 <!--
